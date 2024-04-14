@@ -48,3 +48,7 @@ The SG90 servo motor is responsible for controlling the barrier or gate at the e
 
 •
 As vehicles enter and exit the parking area, the system continuously updates the display and servo motor opens and closes the gate.
+
+![Prototype Img 3](https://github.com/RaajeshwarTetgure/Automatic-Car-Parking-Prototype-Using-Arduino-UNO/assets/106911654/4de38ab7-4f70-4386-8c17-d931c1243d2a)
+
+
